@@ -1,4 +1,4 @@
-package com.nomeEmpresa.calc.visao;
+package com.juliana.calc.visao;
 
 import java.awt.Color;
 import java.awt.Font;

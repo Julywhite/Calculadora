@@ -1,4 +1,4 @@
-package com.nomeEmpresa.calc.modelo;
+package com.juliana.calc.modelo;
 
 public interface MemoriaObservador {
 

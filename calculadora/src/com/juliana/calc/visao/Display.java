@@ -1,12 +1,13 @@
-package com.nomeEmpresa.calc.visao;
+package com.juliana.calc.visao;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.Font;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import com.nomeEmpresa.calc.modelo.Memoria;
-import com.nomeEmpresa.calc.modelo.MemoriaObservador;
+
+import com.juliana.calc.modelo.Memoria;
+import com.juliana.calc.modelo.MemoriaObservador;
 
 @SuppressWarnings("serial")
 public class Display extends JPanel implements MemoriaObservador{

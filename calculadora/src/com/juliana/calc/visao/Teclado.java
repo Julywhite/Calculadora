@@ -1,4 +1,4 @@
-package com.nomeEmpresa.calc.visao;
+package com.juliana.calc.visao;
 
 import java.awt.Color;
 import java.awt.GridBagConstraints;
@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-import com.nomeEmpresa.calc.modelo.Memoria;
+import com.juliana.calc.modelo.Memoria;
 
 @SuppressWarnings("serial")
 public class Teclado extends JPanel implements ActionListener{
